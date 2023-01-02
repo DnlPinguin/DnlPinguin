@@ -10,22 +10,13 @@
 
 #### 🌱 Skills
 ##### Languages 
-* Python
-* Javascript
-* C++
-* Php
-* Perl
-* Sql
+* Python, Javascript, C++, Php, Perl, Sql
 
 ##### Frameworks
-* Symfony
-* React
-* Vue
-* Django
+* Symfony, React, Vue, Django
 
 ##### Misc
-* Twilio
-* Docker
+* Twilio, Docker, Shopware
 
 
 <!--
